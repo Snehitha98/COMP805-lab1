@@ -1,7 +1,7 @@
 # lab1
 - Week1 Django Crash Course textbook reading
   - **lab1-\&lt;github-username\&gt;** repo is created in the GitHub course org:[https://github.com/2020-fall-comp-705-805](https://github.com/2020-fall-comp-705-805)
-  - Accept **lab1** GitHub Classroom&#39;s assignment invite @
+  - Accept **lab1** GitHub Classroom&#39;s assignment invite @ https://classroom.github.com/a/0ShnvuKF
 
   - Complete coding activities in the reading on your local machine
     - Reading/coding activities in Django Crash Course textbook:
